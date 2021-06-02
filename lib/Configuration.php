@@ -16,7 +16,7 @@ class Configuration
     
     protected $password = '';
     
-    protected $host = 'https://services.circulodecredito.com.mx';
+    protected $host = '';
     
     protected $userAgent = 'AuditFirmaClientPhp-Codegen/1.0.0/php';
     
